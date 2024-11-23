@@ -1,0 +1,6 @@
+.count {
+  padding: 1rem;
+  margin: 0.5rem;
+  background-color: var(--dark-desaturated-blue);
+  color: var(--soft-red);
+}
